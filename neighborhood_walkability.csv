@@ -1,0 +1,244 @@
+,bikescore,name,rank,transitscore,walkscore
+0, 87 ,Little Italy,1, 100 ,100
+1, 84 ,Flatiron District,2, 100 ,100
+2, 87 ,Chinatown,3, 100 ,100
+3, 82 ,NoMad,4, 100 ,100
+4, 89 ,Bowery,5, 100 ,100
+5, 81 ,Koreatown,6, 100 ,100
+6, 85 ,Union Square,7, 100 ,100
+7, 87 ,NoHo,8, 100 ,100
+8, 88 ,NoLita,9, 100 ,100
+9, 84 ,Gramercy Park,10, 100 ,100
+10, 80 ,Financial District,11, 100 ,100
+11, 84 ,Tribeca,12, 100 ,99
+12, 82 ,Garment District,13, 100 ,99
+13, 87 ,SoHo,14, 100 ,99
+14, 86 ,Greenwich Village,15, 100 ,99
+15, 80 ,Theater District,16, 100 ,99
+16, 77 ,Midtown East,17, 100 ,99
+17, 87 ,West Village,18, 100 ,99
+18, 80 ,Kips Bay,19, 100 ,99
+19, 78 ,Murray Hill,20, 100 ,99
+20, 85 ,Civic Center,21, 100 ,98
+21, 90 ,Boerum Hill,22, 100 ,98
+22, 80 ,Hell's Kitchen,23, 100 ,98
+23, 87 ,Chelsea,24, 100 ,98
+24, 73 ,Upper East Side,25, 99 ,98
+25, 87 ,Two Bridges,26, 99 ,98
+26, 82 ,DUMBO,27, 100 ,98
+27, 90 ,Cobble Hill,28, 98 ,97
+28, 86 ,Prospect Heights,29, 100 ,97
+29, 89 ,Fort Greene,30, 100 ,97
+30, 82 ,Brooklyn Heights,31, 100 ,97
+31, 73 ,Fordham Heights,32, 99 ,97
+32, 82 ,Greenpoint,33, 68 ,97
+33, 90 ,East Village,34, 96 ,97
+34, 80 ,Battery Park City,35, 100 ,97
+35, 90 ,Clinton Hill,36, 98 ,97
+36, 90 ,Carroll Gardens,37, 85 ,97
+37, 85 ,Park Slope,38, 96 ,97
+38, 84 ,Williamsburg,39, 92 ,96
+39, 69 ,Inwood,40, 88 ,96
+40, 80 ,Upper West Side,41, 99 ,96
+41, 88 ,Gowanus,42, 94 ,96
+42, 70 ,Washington Heights,43, 97 ,96
+43, 88 ,Downtown Brooklyn,44, 100 ,96
+44, 75 ,Central Harlem,45, 100 ,96
+45, 70 ,Mount Hope,46, 94 ,96
+46, 72 ,Longwood,47, 92 ,96
+47, 66 ,West Harlem,48, 99 ,96
+48, 67 ,East Tremont,49, 94 ,96
+49, 61 ,Belmont,50, 92 ,96
+50, 72 ,South Bronx,51, 95 ,96
+51, 63 ,Sunset Park,52, 79 ,96
+52, 66 ,Woodstock,53, 94 ,96
+53, 81 ,East Harlem,54, 99 ,96
+54, 57 ,Ridgewood,55, 85 ,95
+55, 59 ,Borough Park,56, 76 ,95
+56, 69 ,Concourse Village,57, 98 ,95
+57, 91 ,Lower East Side,58, 92 ,95
+58, 73 ,Foxhurst,59, 95 ,95
+59, 71 ,Mount Eden,60, 92 ,95
+60, 55 ,Elmhurst,61, 96 ,95
+61, 69 ,Bushwick,62, 90 ,95
+62, 69 ,Long Island City,63, 86 ,95
+63, 78 ,Crown Heights,64, 99 ,95
+64, 72 ,Concourse,65, 93 ,95
+65, 64 ,Fordham Manor,66, 100 ,95
+66, 53 ,Parkchester,67, 85 ,94
+67, 76 ,Brighton Beach,68, 77 ,94
+68, 67 ,Flatbush,69, 93 ,94
+69, 88 ,Stuyvesant Town - Peter Cooper Village,70, 99 ,94
+70, 77 ,Kensington,71, 83 ,94
+71, 66 ,Jackson Heights,72, 85 ,94
+72, 77 ,Bedford-Stuyvesant,73, 92 ,94
+73, 59 ,Marble Hill,74, 87 ,93
+74, 64 ,Woodside,75, 95 ,93
+75, 55 ,Westchester Village,76, 80 ,93
+76, 65 ,Highbridge,77, 94 ,93
+77, 68 ,Morrisania,78, 91 ,93
+78, 85 ,Vinegar Hill,79, 97 ,93
+79, 62 ,West Farms,80, 90 ,93
+80, 58 ,Bensonhurst,81, 75 ,93
+81, 58 ,Kew Gardens,82, 93 ,93
+82, 59 ,University Heights,83, 97 ,93
+83, 66 ,Norwood,84, 95 ,92
+84, 71 ,Astoria,85, 78 ,92
+85, 72 ,Bedford Park,86, 98 ,92
+86, 64 ,Sheepshead Bay,87, 77 ,92
+87, 64 ,Corona,88, 78 ,92
+88, 60 ,East Flatbush,89, 86 ,92
+89, 74 ,Greenwood Heights,90, 84 ,92
+90, 69 ,Hunts Point,91, 81 ,92
+91, 66 ,Bay Ridge,92, 77 ,92
+92, 58 ,Kingsbridge,93, 93 ,92
+93, 58 ,Jamaica Hills,94, 100 ,92
+94, 58 ,Brownsville,95, 97 ,92
+95, 60 ,Mapleton,96, 78 ,91
+96, 51 ,Van Nest,97, 85 ,91
+97, 58 ,Unionport,98, 80 ,91
+98, 63 ,Ocean Hill,99, 98 ,91
+99, 64 ,Morris Heights,100, 94 ,91
+100, 64 ,Pelham Parkway,101, 82 ,91
+101, 55 ,Rego Park,102, 91 ,90
+102, 64 ,Gravesend,103, 81 ,90
+103, 65 ,Midwood,104, 83 ,90
+104, 86 ,Red Hook,105, 61 ,90
+105, 59 ,Cypress Hills,106, 76 ,90
+106, 75 ,Crotona Park East,107, 94 ,90
+107, 82 ,Windsor Terrace,108, 83 ,89
+108, 57 ,Utopia,109, 70 ,89
+109, 55 ,Forest Hills,110, 90 ,89
+110, 67 ,Allerton,111, 81 ,89
+111, 56 ,Dyker Heights,112, 72 ,89
+112, 55 ,Richmond Hill,113, 81 ,89
+113, 54 ,Jamaica,114, 94 ,89
+114, 58 ,Flatlands,115, 83 ,89
+115, 56 ,Flushing,116, 83 ,89
+116, 60 ,Bath Beach,117, 71 ,89
+117, 63 ,East Elmhurst,118, 70 ,88
+118, 53 ,Woodhaven,119, 71 ,88
+119, 66 ,Pelham Bay,120, 80 ,87
+120, 61 ,Morris Park,121, 77 ,87
+121, 54 ,Wakefield,122, 77 ,87
+122, 52 ,Ozone Park,123, 75 ,87
+123, 59 ,Williamsbridge,124, 80 ,87
+124, 62 ,Clason Point,125, 78 ,86
+125, 63 ,Glendale,126, 68 ,86
+126, 65 ,Port Morris,127, 72 ,86
+127, 59 ,Briarwood,128, 95 ,86
+128, 53 ,East New York,129, 88 ,86
+129, 61 ,Marine Park,130, 81 ,86
+130, 64 ,Kew Gardens Hills,131, 73 ,85
+131, 57 ,St. George,132, 73 ,85
+132, 49 ,Jamaica Estates,133, 91 ,85
+133, 49 ,Baychester,134, 75 ,84
+134, 50 ,Maspeth,135, 73 ,84
+135, 61 ,Port Richmond,136, 65 ,84
+136, 64 ,Bronx Park,137, 87 ,83
+137, 68 ,Grant City,138, 67 ,83
+138, 52 ,Canarsie,139, 75 ,82
+139, 52 ,Floral Park,140, 60 ,82
+140, 46 ,Stapleton,141, 65 ,81
+141, 51 ,South Ozone Park,142, 68 ,81
+142, 76 ,Coney Island,143, 74 ,81
+143, 56 ,Auburndale,144, 67 ,81
+144, 52 ,Hollis,145, 76 ,81
+145, 64 ,Pelham Gardens,146, 75 ,81
+146, 52 ,Middle Village,147, 69 ,81
+147, 58 ,Woodlawn Heights,148, 73 ,81
+148, 64 ,Hillcrest,149, 75 ,81
+149, 70 ,Pomonok,150, 72 ,80
+150, 43 ,Riverdale,151, 72 ,80
+151, 57 ,Edenwald,152, 68 ,79
+152, 50 ,College Point,153, 57 ,79
+153, 49 ,West Brighton,154, 61 ,78
+154, 45 ,Randall Manor,155, 57 ,78
+155, 38 ,Tompkinsville,156, 69 ,78
+156, 53 ,South Jamaica,157, 65 ,78
+157, 54 ,Van Cortlandt Park,158, 77 ,77
+158, 64 ,Fresh Meadows,159, 68 ,77
+159, 74 ,Manhattan Beach,160, 69 ,77
+160, 52 ,Queens Village,161, 73 ,77
+161, 61 ,Forest Park,162, 74 ,77
+162, 49 ,Westerleigh,163, 57 ,76
+163, 53 ,Bergen Beach,164, 76 ,76
+164, 57 ,New Dorp,165, 64 ,76
+165, 52 ,Rosebank,166, 63 ,76
+166, 47 ,Dongan Hills,167, 64 ,75
+167, 50 ,Springfield Gardens,168, 67 ,75
+168, 54 ,St. Albans,169, 71 ,75
+169, 50 ,Eastchester,170, 73 ,75
+170, 71 ,Castle Hill,171, 66 ,75
+171, 51 ,Rochdale,172, 72 ,75
+172, 56 ,Bellerose,173, 65 ,74
+173, 65 ,Far Rockaway,174, 61 ,74
+174, 77 ,Roosevelt Island,175, 90 ,74
+175, 61 ,Clearview,176, 52 ,74
+176, 54 ,Laurelton,177, 63 ,74
+177, 55 ,Arrochar,178, 68 ,73
+178, 58 ,Elm Park,179, 60 ,73
+179, 62 ,Midland Beach,180, 61 ,73
+180, 46 ,Little Neck,181, 58 ,72
+181, 57 ,Bayside,182, 62 ,72
+182, 52 ,Cambria Heights,183, 61 ,72
+183, 59 ,South Beach,184, 63 ,71
+184, 53 ,Mill Basin,185, 72 ,71
+185, 52 ,Whitestone,186, 56 ,71
+186, 59 ,Blissville,187, 68 ,71
+187, 45 ,Holliswood,188, 76 ,70
+188, 44 ,New Brighton,189, 64 ,70
+189, 49 ,Clifton,190, 64 ,70
+190, 50 ,Throgs Neck,191, 53 ,70
+191, 44 ,Castleton Corners,192, 58 ,70
+192, 50 ,Co-Op City,193, 75 ,69
+193, 68 ,City Island,194, 37 ,68
+194, 49 ,Graniteville,195, 59 ,68
+195, 42 ,Manor Heights,196, 50 ,68
+196, 51 ,Rosedale,197, 62 ,67
+197, 47 ,New Dorp Beach,198, 61 ,67
+198, 69 ,Rockaway Beach,199, 58 ,67
+199, 60 ,Howard Beach,200, 64 ,67
+200, 46 ,Grasmere,201, 69 ,67
+201, 45 ,Glen Oaks,202, 57 ,67
+202, 47 ,Richmond Town,203, 49 ,65
+203, 47 ,Eltingville,204, 61 ,65
+204, 47 ,Great Kills,205, 56 ,65
+205, 43 ,Concord,206, 66 ,65
+206, 42 ,Sunnyside,207, 60 ,65
+207, 50 ,Country Club,208, 63 ,64
+208, 53 ,Bulls Head,209, 57 ,63
+209, 51 ,Brookville,210, 67 ,63
+210, 39 ,Douglaston,211, 54 ,62
+211, 47 ,Mariners Harbor,212, 54 ,62
+212, 36 ,Emerson Hill,213, 56 ,61
+213, 41 ,Silver Lake,214, 59 ,61
+214, 58 ,Gerritsen Beach,215, 60 ,60
+215, 49 ,Spencer Estates,216, 69 ,59
+216, 27 ,Grymes Hill,217, 62 ,59
+217, 46 ,Tottenville,218, 54 ,59
+218, 55 ,Fort Wadsworth,219, 63 ,58
+219, 45 ,Alley Park,220, 56 ,58
+220, 40 ,Willowbrook,221, 49 ,56
+221, 51 ,Ocean Breeze,222, 57 ,56
+222, 45 ,Oakwood,223, 60 ,55
+223, 43 ,Pleasant Plains,224, 51 ,55
+224, 44 ,Rossville,225, 44 ,54
+225, 51 ,Travis - Chelsea,226, 44 ,54
+226, 45 ,Huguenot,227, 49 ,51
+227, 55 ,Broad Channel,228, 64 ,51
+228, 47 ,New Springville,229, 57 ,51
+229, 55 ,Prince's Bay,230, 51 ,50
+230, 53 ,Sea Gate,231, 47 ,49
+231, 41 ,Annadale,232, 52 ,48
+232, 31 ,Todt Hill,233, 52 ,48
+233, 42 ,Bay Terrace,234, 60 ,48
+234, 64 ,Fort Hamilton,235, 57 ,46
+235, 46 ,Woodrow,236, 48 ,44
+236, 22 ,Lighthouse Hill,237, 46 ,40
+237, 36 ,Arden Heights,238, 44 ,38
+238, 36 ,Greenridge,239, 57 ,37
+239, 37 ,Charleston,240, 43 ,36
+240, 40 ,Bloomfield,241, 54 ,36
+241, 71 ,Randalls-Wards Island,242, 66 ,22
+242, 26 ,Rikers Island,243, 34 ,2
